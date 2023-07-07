@@ -1,70 +1,77 @@
-<body>
-  <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 💖 ~</h1>
-<br>
-<div align="center">
+# ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 💖 ~
+![Image](assests/borderseperator.gif)
+![Image](assests/holita.jpg)
+![Image](assests/borderseperator.gif)
+## 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
+![Image](assests/borderseperator.gif)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-</div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
-<div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-<li>
- <b>Name:</b> <a href='' target=_blank>Ferfields</a></li>
-<li>
-<b>Prime:</b> Kitsune
-</li>
-<li>
-<b>Loves:</b> anime, games, series
-</li>
-<li>
-<b>Gender:</b> Male
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Coding, Web Development
-</li>
-<li>
-<b>Working @:</b> Everythings
-</li>
-<br><br><br>
-</div>
-<div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
-<p>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-  </div>
-</div>
-<div>
-  <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+class EndPointEngineer:
 
-</p>
-<br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-  <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-  </div>
-<br>
-<p align="center"> <br>
- </p>
-<p align="center"><a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/" target="_blank"><img src="https://img.shields.io/badge/%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
-</div>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
+    def __init__(self):
+        self.name = "Ferfields"
+        self.role = "Endpoint Engineer"
+        self.language_spoken = ["es_MX", "en_US"]
+
+    def say_hi(self):
+        print("Thanks :).")
+
+me = EndPointEngineer()
+me.say_hi()
+```
+![Image](assests/borderseperator.gif)
+##  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+![Image](assests/borderseperator.gif)
+![Image](assests/nightlife.gif) 
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Image](assests/borderseperator.gif)
+## 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<img src="assests/borderseperator.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="" target="_blank">
+    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
+  </a> &nbsp;&nbsp;
+  
+  <a href="mailto:ff@ferfields.me" target="_blank">
+    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
+  </a> &nbsp;&nbsp;
+  <a>
+       <a href="https://discord.gg/" target="_blank">
+    <img align="center" alt="Join My Discord Server" height="50" width="50" src="assests/discordlogo.png"/>
+      </a>
+</p> 
+    
+![Image](https://i.imgur.com/KXx0cCx.gif)
+![Image](assests/room-lo-fi.gif)
+![Image](assests/borderseperator.gif)
+## 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖
+![Image](assests/borderseperator.gif)
+![Image](assests/studiogif2.gif)
+![Image](assests/borderseperator.gif)
+
+```txt
+Python   13 hrs 27 mins  ████████████████████▒░░░░   81.89 %
+JavaScript   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Bash         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+```
+![Image](assests/borderseperator.gif)
+![Image](assests/loficity.gif)
+![Image](assests/borderseperator.gif)
