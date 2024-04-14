@@ -82,9 +82,10 @@ me.say_hi()
     </td>
   </tr>
 </table>
-
 <br>
 <div align="center">
+  
+![Image](assests/borderseperator.gif)
 
 ## 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 
@@ -109,8 +110,10 @@ me.say_hi()
       </a>
 </p> 
     
-![Image](https://i.imgur.com/KXx0cCx.gif)
-![Image](assests/room-lo-fi.gif)
+<div align="center">
+  <img src="assests/room-lo-fi.gif" width="300px">
+</div>
+    
 ![Image](assests/borderseperator.gif)
 
 <div align="center">
