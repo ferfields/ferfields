@@ -24,7 +24,7 @@ me.say_hi()
 ![Image](assests/borderseperator.gif)
 ##  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 ![Image](assests/borderseperator.gif)
-![Image](assests/nightlife.gif) 
+<img src="assests/nightlife.gif" width="300px" />
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
