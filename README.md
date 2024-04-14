@@ -1,9 +1,17 @@
+<div align="center">
+
 # ~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 💖 ~
 ![Image](assests/borderseperator.gif)
-![Image](assests/holita.jpg)
+
+<div align="center">
+  <img src="assests/holita.jpg" width="300px" alt="Image" style="border: 5px solid #ccc; box-shadow: 2px 2px 10px #888888; margin: 20px;">
+</div>
+
 ![Image](assests/borderseperator.gif)
 ## 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊
 ![Image](assests/borderseperator.gif)
+</div>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -14,30 +22,74 @@ class EndPointEngineer:
         self.name = "Ferfields"
         self.role = "Endpoint Engineer"
         self.language_spoken = ["es_MX", "en_US"]
+        self.specialties = [
+            "Cybersecurity",
+            "Red Team",
+            "Ethical Hacker",
+            "Security Analyst"
+        ]
+        self.preparing_for_certification = "EJPTv2"
 
     def say_hi(self):
-        print("Thanks :).")
+        print("Thanks for visiting my profile :).")
+        print(f"My name is {self.name}, and I am an {self.role}.")
+        print("I specialize in the following areas:")
+        for specialty in self.specialties:
+            print(f"  - {specialty}")
+        print(f"I am currently preparing for the {self.preparing_for_certification} certification.")
+        print(f"I speak the following languages: {', '.join(self.language_spoken)}")
 
 me = EndPointEngineer()
 me.say_hi()
 ```
-![Image](assests/borderseperator.gif)
-##  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-![Image](assests/borderseperator.gif)
-<img src="assests/nightlife.gif" width="300px" />
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+</div>
+
 ![Image](assests/borderseperator.gif)
+<div align="center">
+    
+##  ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+</div>
+
+![Image](assests/borderseperator.gif)
+
+<table>
+  <tr>
+    <td>
+      <img src="assests/nightlife.gif" width="300px" />
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=10000000&color=adabab&center=true&vCenter=true&width=435&lines=%3C+My+Mastered+Skills+%3E" />
+        </a>
+      </div>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=bash,docker,nodejs,js,linux,kubernetes,ts,powershell,notion" />
+        </a>
+      </p>
+         <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=discord,bots,discordjs,git,github,md,mongodb,nestjs" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres,mysql,html,py,vim,vscode,latex,nginx,cloudflare,debian,obsidian" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<div align="center">
+
 ## 📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+
+</div>
+
 <img src="assests/borderseperator.gif">
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
@@ -60,18 +112,29 @@ me.say_hi()
 ![Image](https://i.imgur.com/KXx0cCx.gif)
 ![Image](assests/room-lo-fi.gif)
 ![Image](assests/borderseperator.gif)
+
+<div align="center">
+
 ## 💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖
-![Image](assests/borderseperator.gif)
-![Image](assests/studiogif2.gif)
+
+</div>
+
 ![Image](assests/borderseperator.gif)
 
-```txt
-Python   13 hrs 27 mins  ████████████████████▒░░░░   81.89 %
-JavaScript   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Bash         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-```
+<table>
+  <tr>
+    <!-- Columna para el GIF -->
+    <td>
+      <img src="assests/studiogif2.gif" width="300px" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    </td>
+  </tr>
+</table>
+<br>
+
+
 ![Image](assests/borderseperator.gif)
-![Image](assests/loficity.gif)
-![Image](assests/borderseperator.gif)
+
+
