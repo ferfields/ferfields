@@ -46,18 +46,18 @@ print(me.get_status())
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ferfields&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=B76EF5&icon_color=B76EF5" alt="GitHub Stats" height="180" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferfields&theme=tokyonight" alt="GitHub Stats" height="180" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferfields&layout=compact&theme=tokyonight&hide_border=true&title_color=B76EF5" alt="Top Languages" height="180" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferfields&theme=tokyonight" alt="Top Languages" height="180" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferfields&theme=tokyonight&hide_border=true&stroke=B76EF5&ring=B76EF5&fire=B76EF5" alt="Streak Stats" height="180" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferfields&theme=tokyonight" alt="Streak Stats" height="180" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=Ferfields&theme=tokyonight&no-bg=true&no-frame=true&column=3" alt="Trophies" height="180" />
+        <img src="https://github-profile-trophy.vercel.app/?username=ferfields&theme=tokyonight&no-bg=true&no-frame=true&column=3" alt="Trophies" height="180" />
       </td>
     </tr>
   </table>
@@ -66,7 +66,7 @@ print(me.get_status())
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferfields&theme=tokyo-night&hide_border=true&area=true&color=B76EF5" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ferfields&theme=tokyo-night" width="100%" alt="Activity Graph" />
 </div>
 
 <hr style="border: 1px solid #444;" />
