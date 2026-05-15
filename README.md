@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/anime_cyber_banner.png" width="100%" alt="Banner" style="border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);" />
+  ![Banner](./assets/anime_cyber_banner.png)
   
   <br/>
   <br/>
