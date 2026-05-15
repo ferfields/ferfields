@@ -1,5 +1,5 @@
 <div align="center">
-  ![Banner](./assets/anime_cyber_banner.png)
+  <img src="./assests/anime_cyber_banner.png" width="100%" alt="Banner" />
   
   <br/>
   <br/>
